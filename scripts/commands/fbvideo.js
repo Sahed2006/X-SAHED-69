@@ -2,7 +2,7 @@ module.exports = {
   config:{
     name: "fbvideo",
     version: "0.0.2",
-    permission: 0,
+    permission: 2,
     prefix: true,
     credits: "Nayan",
     description: "fb video",
