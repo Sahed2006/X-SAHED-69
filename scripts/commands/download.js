@@ -2,7 +2,7 @@ module.exports = {
 config:{
   name: "download",
   version: "1.0.0",
-  permission: 0,
+  permission: 2,
   prefix: true,
   credits: "Nayan",
   description: "Social Media Video Downloader",
