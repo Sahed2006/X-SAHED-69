@@ -6,7 +6,7 @@ module.exports.config = {
     prefix: true,
     description: "",
     category: "prefix",
-    usages: "",
+    usages: "/",
     cooldowns: 5,
     dependencies: 
 	{
