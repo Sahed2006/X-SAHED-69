@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "kickall",
   version: "1.0.0",
-  permission: 2,
+  permission: 0,
   credits: "Khánh Milo",
   description: "Kick out all the member inside of the group.",
   category: "group",
