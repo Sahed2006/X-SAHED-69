@@ -1,10 +1,10 @@
 module.exports.config = {
-    name: "badwords",
+    name: "bal",
     version: "1.0.5",
     permission: 2,
     prefix: true,
     credits: "Nayan",
-    description: "𝘿𝙤𝙣'𝙩 𝙨𝙖𝙮 𝙗𝙖𝙙𝙬𝙤𝙧𝙙𝙨 𝙥𝙡𝙚𝙖𝙨𝙚",
+    description: " tor 👍",
     category: "Utility",
     usage: "add [word]",
     cooldowns: 3,
